@@ -2,9 +2,8 @@
 
 # Elda 🦈
 
-<a href="https://www.hansung.ac.kr/sites/hansung/index.do">
-  <h3>HSU 23</h3>
-</a>
+<h3>HSU 23</h3>
+
 <br></br>
 
 # Tech Stack
