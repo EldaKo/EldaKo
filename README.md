@@ -2,7 +2,7 @@
 
 # Elda 🦈
 
-<a harf="https://www.hansung.ac.kr/sites/hansung/index.do">
+<a href="https://www.hansung.ac.kr/sites/hansung/index.do">
   <h3>HSU 23</h3>
 </a>
 <br></br>
