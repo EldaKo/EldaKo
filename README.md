@@ -1,8 +1,8 @@
 <div align=center>
 
-# Elda 
+# Elda 🦈
 
-    🐢 HSU 23 🐢 
+<h3>HSU 23</h3>
 
 
 <br></br>
