@@ -1,6 +1,6 @@
 <div align=center>
 
-#🐋 Elda 🐋 
+# 🐋 Elda 🐋 
 
 <h3>HSU 26</h3>
 
