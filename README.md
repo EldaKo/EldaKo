@@ -1,8 +1,9 @@
 <div align=center>
 
-# Elda 🦈
+#🐋 Elda 🐋 
 
 <h3>HSU 26</h3>
+<h3>디지털콘텐츠 가상현실트렉</h3>
 
 
 <br></br>
